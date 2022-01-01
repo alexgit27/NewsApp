@@ -7,6 +7,8 @@
 
 import UIKit
 
+//six months later
+
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 	var window: UIWindow?
